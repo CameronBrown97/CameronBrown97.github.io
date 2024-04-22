@@ -1,0 +1,23 @@
+.section {
+    margin-bottom: 25px;
+}
+
+#img1 {
+    width: 50%;
+}
+
+#img2 {
+    width: 50%;
+}
+
+#img3 {
+    width: 50%;
+}
+
+.imgDesc {
+    padding-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+}
